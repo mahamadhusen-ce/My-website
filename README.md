@@ -8,7 +8,7 @@
 
 My Name is [**Mahamadhusen kureshi**](https://mahamadhusen-kureshi.web.app/)
   
-I'm a self taught Front-End Developer, SDE at **@Zenduty**.
+I'm a self taught  Developer, SDE at **@Zenduty**.
   
 Currently learning Next.js and TypeScript.
 
@@ -36,8 +36,6 @@ Currently learning Next.js and TypeScript.
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=AnilSeervi&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<!--
-**AnilSeervi/AnilSeervi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
