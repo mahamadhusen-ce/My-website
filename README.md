@@ -8,9 +8,7 @@
 
 My Name is [**Mahamadhusen kureshi**](https://mahamadhusen-kureshi.web.app/)
   
-I'm a self taught  Developer, SDE at **@Zenduty**.
-  
-Currently learning Next.js and TypeScript.
+
 
 ## 🚧 Projects
 
